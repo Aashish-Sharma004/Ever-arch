@@ -1,0 +1,28 @@
+[
+  {
+    "id": "prop_001",
+    "title": "Aravalli Horizon Villa",
+    "type": "Architecture & Sale",
+    "location": "Bani Park, Jaipur",
+    "price": "₹6,50,00,000",
+    "status": "For Sale",
+    "specs": {
+      "beds": 4,
+      "baths": 5,
+      "sqft": 4200
+    }
+  },
+  {
+    "id": "prop_002",
+    "title": "The Azure Penthouse",
+    "type": "Interior Design & Rent",
+    "location": "Worli Sea Face, Mumbai",
+    "price": "₹15,00,000 / month",
+    "status": "For Rent",
+    "specs": {
+      "beds": 3,
+      "baths": 3,
+      "sqft": 3100
+    }
+  }
+]
